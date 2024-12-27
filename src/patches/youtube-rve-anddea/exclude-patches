@@ -1,24 +1,19 @@
 Alternative thumbnails
 Ambient mode control
-Change player flyout menu toggles
-Change share sheet
 Custom Shorts action buttons
 Custom branding icon for YouTube
 Custom branding name for YouTube
 Custom double tap length
 Custom header for YouTube
-Description components
 Disable QUIC protocol
 Disable auto captions
 Disable haptic feedback
 Disable resuming Shorts on startup
 Disable splash animation
 Enable debug logging
-Enable external browser
 Force player buttons background
 Force snackbar theme
 Hide Shorts dimming
-Hide feed flyout menu
 Hide shortcuts
 Layout switch
 MaterialYou
@@ -27,9 +22,6 @@ Overlay buttons
 Return YouTube Dislike
 Return YouTube Username
 SponsorBlock
-Spoof app version
 Swipe controls
 Theme
 Translations for YouTube
-Video playback
-Visual preferences icons for YouTube
